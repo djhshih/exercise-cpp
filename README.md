@@ -8,10 +8,10 @@ The code in `pearson_problem.cpp` compiles successfully with
  
 However, the unit tests fail during runtime:
  
-      ./pearson
+    ./pearson
 
-      Assertion failed: (std::abs(numeric::correlation(x, n, z, n)) - (-1.0)
-      < tolerance), function main, file pearson_problem.cpp, line 106.
+    Assertion failed: (std::abs(numeric::correlation(x, n, z, n)) - (-1.0)
+    < tolerance), function main, file pearson_problem.cpp, line 106.
  
 Find and correct 7 logical errors in `pearson_problem.cpp`.
 
@@ -20,13 +20,15 @@ Find and correct 7 logical errors in `pearson_problem.cpp`.
 
 1. What is the worse-case time and space complexities of the following function?
 
-    template <typename T>
-    inline double mad(T* xs, size_t n)
+```c++
+template <typename T> inline double mad(T* xs, size_t n)
+```
 
 2. What is the average-case time complexity of the following function?
 
-    template <typename T>
-    inline double median(T* xs, size_t n)
+```c++
+template <typename T> inline double median(T* xs, size_t n)
+```
 
 
 ## Problem Solving ##
