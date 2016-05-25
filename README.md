@@ -35,11 +35,11 @@ Write a program (in any language) that finds the fourth most frequent value
 in an integer array. In the case of ties in frequency among multiple values, 
 return the smallest of such values.
 
-For example, given the values
+For example, given the values (as command-line argument inputs)
 
     4 4 1 2 2 2 2 3 3 3 5 5 5 6 1 5 9
 
-the program should return
+the program should print
 
     1
 
