@@ -20,15 +20,15 @@ Find and correct 7 logical errors in `pearson_problem.cpp`.
 
 1. What is the worse-case time and space complexities of the following function?
 
-```c++
-template <typename T> inline double mad(T* xs, size_t n)
-```
+    ```c++
+    template <typename T> inline double mad(T* xs, size_t n)
+    ```
 
 2. What is the average-case time complexity of the following function?
 
-```c++
-template <typename T> inline double median(T* xs, size_t n)
-```
+    ```c++
+    template <typename T> inline double median(T* xs, size_t n)
+    ```
 
 
 ## Problem Solving ##
