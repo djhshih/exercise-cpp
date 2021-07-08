@@ -18,6 +18,8 @@ Find and correct 7 logical errors in `pearson_problem.cpp`.
 
 ## Code Comprehension ##
 
+Review the code in `numeric.hpp` and answer the following questions.
+
 1. What is the worse-case time and space complexities of the following function?
 
     ```c++
