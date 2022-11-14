@@ -35,7 +35,7 @@ Review the code in `numeric.hpp` and answer the following questions.
 
 ## Problem Solving ##
 
-Write a program (in any language) that finds the fourth most frequent value 
+Write a program that finds the fourth most frequent value 
 in an integer array. In the case of ties in frequency among multiple values, 
 return the smallest of such values.
 
