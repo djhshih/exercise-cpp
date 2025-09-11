@@ -15,10 +15,13 @@ However, the unit tests fail during runtime:
  
 Find and correct 7 logical errors in `pearson_problem.cpp`.
 
+Submit the output of `git diff`.
+
 
 ## Code Comprehension ##
 
-Review the code in `numeric.hpp` and answer the following questions.
+Review the code in `numeric.hpp` and explain your answers to the following 
+questions:
 
 1. What is the worse-case time and space complexities of the following function?
 
